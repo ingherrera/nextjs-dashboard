@@ -13,49 +13,51 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 2. [Creación de una Aplicación con Next.js](#creando-una-aplicación-con-nextjs)
 
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla imperdiet lorem quis leo dapibus, viverra iaculis est facilisis. Nam nunc tortor, posuere eu posuere at, sagittis non orci. Duis sollicitudin suscipit nulla, in pretium dolor maximus non. Cras eu felis vel dui laoreet ullamcorper a sit amet ipsum. In quis velit non sapien commodo scelerisque ac in diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse imperdiet, justo vel facilisis porta, felis nulla tristique neque, ac interdum quam neque eu lectus. Sed at ullamcorper turpis. Aliquam convallis nulla eu elit euismod, at pellentesque enim facilisis. Aliquam sit amet rhoncus nulla. Vestibulum lacinia quis purus eu consequat.
 
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
-loremipsum
+Nulla tincidunt tincidunt elementum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam lobortis, turpis eget condimentum rhoncus, libero turpis pharetra nibh, et feugiat massa libero eget tellus. Suspendisse non dictum magna. Sed dictum elementum interdum. Sed a lacus dictum, tincidunt metus ac, volutpat ipsum. Nullam sit amet risus eget tellus aliquam egestas. Morbi finibus, eros tempor pellentesque aliquet, elit justo consectetur urna, vel fringilla elit dui ut eros. Proin vel purus metus. Aenean tempor ut diam nec pulvinar. Nulla ac pulvinar est. Pellentesque ultricies justo vel faucibus rutrum. Pellentesque quis blandit dolor. Suspendisse in sapien faucibus, tempus urna id, commodo magna.
 
+Proin pellentesque sodales arcu a bibendum. Nulla facilisi. Suspendisse potenti. Sed pretium pellentesque lorem in finibus. Fusce vitae justo id arcu efficitur aliquet. Pellentesque eget fermentum arcu, sit amet tristique sem. Vestibulum malesuada quis ante id efficitur. Curabitur eros leo, suscipit nec dignissim non, aliquet nec ex. Maecenas quis commodo velit. Curabitur lectus est, sagittis ac iaculis vitae, scelerisque nec nunc. Proin nec turpis felis. Ut eu purus vitae magna condimentum porttitor. Sed non maximus orci. Ut nibh nibh, gravida et consequat nec, laoreet in tellus. Praesent id nisi lacinia, mollis odio a, tempus mauris. Ut aliquam mattis nulla sit amet iaculis.
 
+Proin tincidunt quam nec risus congue blandit. Aenean gravida consequat tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin consectetur ullamcorper nisi, vitae bibendum orci gravida eu. Mauris volutpat erat leo, vitae faucibus orci varius eget. Suspendisse dapibus ut mauris et placerat. Donec libero lacus, congue mattis libero vitae, eleifend faucibus magna. Nulla facilisi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam nunc dolor, cursus luctus erat id, dictum venenatis lorem. Sed dictum pretium leo, vitae vehicula lectus imperdiet id. Sed dignissim venenatis pharetra. Vestibulum feugiat nunc tincidunt nisi ultrices congue.
 
+Donec sed lacus sodales, gravida lacus sed, feugiat arcu. Donec sodales dolor eget augue blandit, ac mattis libero lacinia. Sed eu risus quis magna cursus vestibulum. Cras suscipit in urna et tempus. Nam sed eros sed mauris lacinia feugiat. Praesent bibendum venenatis augue. Pellentesque quis quam sit amet eros egestas viverra non in ante. Integer lobortis ultrices est et elementum. Pellentesque vitae nibh risus. Suspendisse eleifend posuere dolor, eu lobortis elit scelerisque in. Donec ante est, bibendum consectetur risus nec, dictum accumsan velit. Quisque in erat at tellus lobortis condimentum. Suspendisse elementum finibus ultrices.
 
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris vitae sagittis nibh. Quisque facilisis porta tellus a malesuada. Mauris molestie ipsum eu luctus placerat. Ut lacinia, lectus vitae aliquam ultrices, est lectus elementum lorem, non suscipit sem nulla vel nunc. Ut sed ultrices tellus, eget elementum felis. Sed et metus sit amet est vehicula ultricies hendrerit vitae turpis.
 
+Nullam convallis massa id justo sollicitudin, molestie finibus ex scelerisque. Donec nec elementum sem, id laoreet odio. Suspendisse efficitur velit lacus, et accumsan purus pulvinar id. Suspendisse sagittis, erat id eleifend dignissim, sapien magna venenatis sapien, at condimentum nulla turpis porttitor purus. Phasellus sit amet velit ut diam efficitur vehicula. Quisque ornare volutpat mattis. Morbi consectetur nulla vel congue consectetur. Praesent consequat blandit tellus, at pellentesque augue semper in. Vivamus vel cursus lorem. Suspendisse iaculis, eros ullamcorper facilisis elementum, felis massa placerat erat, quis luctus velit urna sed augue.
 
+Duis placerat ultricies nulla ut lacinia. Curabitur et leo lorem. Sed aliquam, turpis at blandit hendrerit, arcu enim dictum lorem, vitae iaculis odio mi ac felis. Aenean in luctus libero. Aenean quis purus tortor. Suspendisse ornare, enim nec ultrices egestas, diam metus congue lorem, vulputate pellentesque tellus sem in magna. Maecenas gravida sollicitudin libero non vulputate. Pellentesque semper ex a rutrum porttitor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum vehicula, ex nec sagittis ultricies, quam odio fermentum mi, in facilisis justo est ac arcu. Nunc aliquam massa vitae hendrerit dignissim.
 
+Vivamus ultricies elit purus, ac faucibus metus tempus aliquam. Etiam ornare egestas nulla, eget iaculis est malesuada ornare. Mauris sed euismod leo, eu sollicitudin felis. Nunc vehicula ligula eget leo aliquam mollis. Fusce nec quam vel nisi tristique aliquam. Quisque nec pretium neque. Morbi ut lacus at urna mattis tincidunt. Phasellus nec ligula ipsum. Sed vel lorem est. Praesent venenatis sit amet lectus eu dictum. Vivamus et semper ligula, sit amet mattis urna. Donec sed tortor a lorem aliquet molestie. Integer lorem lacus, ultricies tempor quam pulvinar, molestie interdum elit. Etiam gravida pellentesque neque eget dictum.
 
-
-
-
-
-
+Suspendisse at mollis ex, tincidunt facilisis velit. Integer commodo erat sit amet sapien fringilla, at faucibus metus suscipit. In laoreet magna ac congue sollicitudin. Nunc at risus velit. Sed sed dapibus justo. Vestibulum eget interdum lorem. Donec dignissim leo nulla, quis vestibulum metus tempus sed. Cras eget tellus eget arcu vehicula sodales consectetur vitae risus. Sed eu ullamcorper orci. Suspendisse vel auctor ex. Vestibulum quam nunc, euismod eu tincidunt vel, euismod non ante. Sed velit nibh, vehicula eget neque at, vestibulum mollis dolor. Etiam porta sed quam eu congue.
 
 
 ## ¿Que es Next.js?
 
 [Next.js](https://nextjs.org/) es un framework híbrido que opera tanto en el servidor como en el cliente, construido sobre React. Proporciona herramientas y funcionalidades que simplifican el desarrollo de aplicaciones web. Next.js se encarga de toda la configuración necesaria de React y sus herramientas para que nosotros podamos enfocarnos en desarrollar nuestra aplicación.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla imperdiet lorem quis leo dapibus, viverra iaculis est facilisis. Nam nunc tortor, posuere eu posuere at, sagittis non orci. Duis sollicitudin suscipit nulla, in pretium dolor maximus non. Cras eu felis vel dui laoreet ullamcorper a sit amet ipsum. In quis velit non sapien commodo scelerisque ac in diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse imperdiet, justo vel facilisis porta, felis nulla tristique neque, ac interdum quam neque eu lectus. Sed at ullamcorper turpis. Aliquam convallis nulla eu elit euismod, at pellentesque enim facilisis. Aliquam sit amet rhoncus nulla. Vestibulum lacinia quis purus eu consequat.
+
+Nulla tincidunt tincidunt elementum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam lobortis, turpis eget condimentum rhoncus, libero turpis pharetra nibh, et feugiat massa libero eget tellus. Suspendisse non dictum magna. Sed dictum elementum interdum. Sed a lacus dictum, tincidunt metus ac, volutpat ipsum. Nullam sit amet risus eget tellus aliquam egestas. Morbi finibus, eros tempor pellentesque aliquet, elit justo consectetur urna, vel fringilla elit dui ut eros. Proin vel purus metus. Aenean tempor ut diam nec pulvinar. Nulla ac pulvinar est. Pellentesque ultricies justo vel faucibus rutrum. Pellentesque quis blandit dolor. Suspendisse in sapien faucibus, tempus urna id, commodo magna.
+
+Proin pellentesque sodales arcu a bibendum. Nulla facilisi. Suspendisse potenti. Sed pretium pellentesque lorem in finibus. Fusce vitae justo id arcu efficitur aliquet. Pellentesque eget fermentum arcu, sit amet tristique sem. Vestibulum malesuada quis ante id efficitur. Curabitur eros leo, suscipit nec dignissim non, aliquet nec ex. Maecenas quis commodo velit. Curabitur lectus est, sagittis ac iaculis vitae, scelerisque nec nunc. Proin nec turpis felis. Ut eu purus vitae magna condimentum porttitor. Sed non maximus orci. Ut nibh nibh, gravida et consequat nec, laoreet in tellus. Praesent id nisi lacinia, mollis odio a, tempus mauris. Ut aliquam mattis nulla sit amet iaculis.
+
+Proin tincidunt quam nec risus congue blandit. Aenean gravida consequat tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin consectetur ullamcorper nisi, vitae bibendum orci gravida eu. Mauris volutpat erat leo, vitae faucibus orci varius eget. Suspendisse dapibus ut mauris et placerat. Donec libero lacus, congue mattis libero vitae, eleifend faucibus magna. Nulla facilisi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam nunc dolor, cursus luctus erat id, dictum venenatis lorem. Sed dictum pretium leo, vitae vehicula lectus imperdiet id. Sed dignissim venenatis pharetra. Vestibulum feugiat nunc tincidunt nisi ultrices congue.
+
+Donec sed lacus sodales, gravida lacus sed, feugiat arcu. Donec sodales dolor eget augue blandit, ac mattis libero lacinia. Sed eu risus quis magna cursus vestibulum. Cras suscipit in urna et tempus. Nam sed eros sed mauris lacinia feugiat. Praesent bibendum venenatis augue. Pellentesque quis quam sit amet eros egestas viverra non in ante. Integer lobortis ultrices est et elementum. Pellentesque vitae nibh risus. Suspendisse eleifend posuere dolor, eu lobortis elit scelerisque in. Donec ante est, bibendum consectetur risus nec, dictum accumsan velit. Quisque in erat at tellus lobortis condimentum. Suspendisse elementum finibus ultrices.
+
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris vitae sagittis nibh. Quisque facilisis porta tellus a malesuada. Mauris molestie ipsum eu luctus placerat. Ut lacinia, lectus vitae aliquam ultrices, est lectus elementum lorem, non suscipit sem nulla vel nunc. Ut sed ultrices tellus, eget elementum felis. Sed et metus sit amet est vehicula ultricies hendrerit vitae turpis.
+
+Nullam convallis massa id justo sollicitudin, molestie finibus ex scelerisque. Donec nec elementum sem, id laoreet odio. Suspendisse efficitur velit lacus, et accumsan purus pulvinar id. Suspendisse sagittis, erat id eleifend dignissim, sapien magna venenatis sapien, at condimentum nulla turpis porttitor purus. Phasellus sit amet velit ut diam efficitur vehicula. Quisque ornare volutpat mattis. Morbi consectetur nulla vel congue consectetur. Praesent consequat blandit tellus, at pellentesque augue semper in. Vivamus vel cursus lorem. Suspendisse iaculis, eros ullamcorper facilisis elementum, felis massa placerat erat, quis luctus velit urna sed augue.
+
+Duis placerat ultricies nulla ut lacinia. Curabitur et leo lorem. Sed aliquam, turpis at blandit hendrerit, arcu enim dictum lorem, vitae iaculis odio mi ac felis. Aenean in luctus libero. Aenean quis purus tortor. Suspendisse ornare, enim nec ultrices egestas, diam metus congue lorem, vulputate pellentesque tellus sem in magna. Maecenas gravida sollicitudin libero non vulputate. Pellentesque semper ex a rutrum porttitor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum vehicula, ex nec sagittis ultricies, quam odio fermentum mi, in facilisis justo est ac arcu. Nunc aliquam massa vitae hendrerit dignissim.
+
+Vivamus ultricies elit purus, ac faucibus metus tempus aliquam. Etiam ornare egestas nulla, eget iaculis est malesuada ornare. Mauris sed euismod leo, eu sollicitudin felis. Nunc vehicula ligula eget leo aliquam mollis. Fusce nec quam vel nisi tristique aliquam. Quisque nec pretium neque. Morbi ut lacus at urna mattis tincidunt. Phasellus nec ligula ipsum. Sed vel lorem est. Praesent venenatis sit amet lectus eu dictum. Vivamus et semper ligula, sit amet mattis urna. Donec sed tortor a lorem aliquet molestie. Integer lorem lacus, ultricies tempor quam pulvinar, molestie interdum elit. Etiam gravida pellentesque neque eget dictum.
+
+Suspendisse at mollis ex, tincidunt facilisis velit. Integer commodo erat sit amet sapien fringilla, at faucibus metus suscipit. In laoreet magna ac congue sollicitudin. Nunc at risus velit. Sed sed dapibus justo. Vestibulum eget interdum lorem. Donec dignissim leo nulla, quis vestibulum metus tempus sed. Cras eget tellus eget arcu vehicula sodales consectetur vitae risus. Sed eu ullamcorper orci. Suspendisse vel auctor ex. Vestibulum quam nunc, euismod eu tincidunt vel, euismod non ante. Sed velit nibh, vehicula eget neque at, vestibulum mollis dolor. Etiam porta sed quam eu congue.
+
 
 ## Creando una Aplicación con Next.js
 
